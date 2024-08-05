@@ -41,5 +41,3 @@ The application runs on http://localhost:3000. Use tools like Postman or cURL to
 - POST /todos: Create a new todo item.
 - PATCH /todos/:id: Update an existing todo item.
 - DELETE /todos/:id: Delete a todo item.
-
-## License
